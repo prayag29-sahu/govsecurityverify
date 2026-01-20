@@ -58,3 +58,4 @@ shared/uploads/
 
 serviceAccountKey.json
 ecosystem.config.js
+.vercel

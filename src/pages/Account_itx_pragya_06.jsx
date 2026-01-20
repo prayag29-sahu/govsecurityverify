@@ -24,7 +24,7 @@ const ProfileSecurityStatus = () => {
                         {/* USERNAME + FOLLOW STATUS */}
                         <div className="flex flex-wrap items-center gap-3">
                             <h2 className="text-xl font-semibold">
-                                mr_purav_1432
+                                itx_pragya_06
                             </h2>
                             <MoreHorizontal className="text-gray-400 cursor-pointer" />
                         </div>
@@ -38,7 +38,7 @@ const ProfileSecurityStatus = () => {
 
                         {/* BIO */}
                         <div className="text-sm text-gray-300 leading-relaxed space-y-1">
-                            <p className="font-medium text-white">Purav 🌸</p>
+                            <p className="font-medium text-white">me</p>
                             {/* <p>👀 Be better in real life then on social media 💕</p> */}
                         </div>
 

@@ -23,7 +23,7 @@ const SignUp = () => {
         try {
             console.log("DATA SENDING:", input);
 
-            const res = await axios.post("http://localhost:4000/create", input);
+            const res = await axios.post("https://security-backend-c1hz.onrender.com/create", input);
 
             console.log("SERVER RESPONSE:", res.data);
 

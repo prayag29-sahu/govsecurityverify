@@ -24,21 +24,25 @@ const ProfileSecurityStatus = () => {
                         {/* USERNAME + FOLLOW STATUS */}
                         <div className="flex flex-wrap items-center gap-3">
                             <h2 className="text-xl font-semibold">
-                                mr_purav_1432
+                                blueberry076780
                             </h2>
                             <MoreHorizontal className="text-gray-400 cursor-pointer" />
                         </div>
 
                         {/* STATS */}
                         <div className="flex gap-6 text-sm">
-                            <span><strong>0</strong> posts</span>
-                            <span><strong>1</strong> followers</span>
-                            <span><strong>1</strong> following</span>
+                            <span><strong>12</strong> posts</span>
+                            <span><strong>0</strong> followers</span>
+                            <span><strong>4</strong> following</span>
                         </div>
 
                         {/* BIO */}
                         <div className="text-sm text-gray-300 leading-relaxed space-y-1">
-                            <p className="font-medium text-white">Purav 🌸</p>
+                            <p className="font-medium text-white">Naira 🦋</p>
+                            <p className="font-medium text-white">creator 🌠</p>
+                            <p className="font-medium text-white">🌸 हर कण में, हर साँस में, राधे राधे 🌸</p>
+                            <p className="font-medium text-white">Every Chapter of Life Has its Own Beauty ☠️🦋🌚</p>
+
                             {/* <p>👀 Be better in real life then on social media 💕</p> */}
                         </div>
 

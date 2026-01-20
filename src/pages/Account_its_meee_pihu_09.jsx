@@ -43,9 +43,9 @@ const ProfileSecurityStatus = () => {
                         </div>
 
                         {/* FOLLOW BUTTON */}
-                        <button className="mt-2 w-full sm:w-auto bg-blue-600 hover:bg-blue-700 px-6 py-2 rounded-lg text-sm font-semibold">
+                        {/* <button className="mt-2 w-full sm:w-auto bg-blue-600 hover:bg-blue-700 px-6 py-2 rounded-lg text-sm font-semibold">
                             Follow
-                        </button>
+                        </button> */}
 
                     </div>
                 </div>
@@ -87,10 +87,6 @@ const ProfileSecurityStatus = () => {
                             </p>
                         </div>
                     </div>
-
-                    <button className="bg-blue-600 hover:bg-blue-700 px-6 py-2 rounded-lg text-sm font-semibold">
-                        Notify Me
-                    </button>
 
                 </div>
 

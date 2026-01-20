@@ -13,7 +13,7 @@ const ProfileSecurityStatus = () => {
 
                     {/* PROFILE IMAGE */}
                     <img
-                        src="/prof.jpeg"
+                        src="/raj.jpeg"
                         alt="profile"
                         className="w-36 h-36 rounded-full object-cover border border-white/20"
                     />
@@ -24,21 +24,21 @@ const ProfileSecurityStatus = () => {
                         {/* USERNAME + FOLLOW STATUS */}
                         <div className="flex flex-wrap items-center gap-3">
                             <h2 className="text-xl font-semibold">
-                                mr_purav_1432
+                                mr_raj_rajpoot_555
                             </h2>
                             <MoreHorizontal className="text-gray-400 cursor-pointer" />
                         </div>
 
                         {/* STATS */}
                         <div className="flex gap-6 text-sm">
-                            <span><strong>0</strong> posts</span>
-                            <span><strong>1</strong> followers</span>
-                            <span><strong>1</strong> following</span>
+                            <span><strong>31</strong> posts</span>
+                            <span><strong>980</strong> followers</span>
+                            <span><strong>1119</strong> following</span>
                         </div>
 
                         {/* BIO */}
                         <div className="text-sm text-gray-300 leading-relaxed space-y-1">
-                            <p className="font-medium text-white">Purav 🌸</p>
+                            <p className="font-medium text-white">thakur Sahab 😎</p>
                             {/* <p>👀 Be better in real life then on social media 💕</p> */}
                         </div>
 
@@ -88,6 +88,7 @@ const ProfileSecurityStatus = () => {
                         </div>
                     </div>
 
+                  
                 </div>
 
             </div>
